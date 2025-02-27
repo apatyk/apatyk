@@ -2,7 +2,7 @@
 
 - 💻 I'm passionate about machine learning, computer vision, data engineering, and scalable data processing
 - 🔭 I enjoy using Rust, Python, and React
-- 🌱 I'm currently learning DataFusion
+- 🌱 I'm currently learning [DataFusion](https://datafusion.apache.org) and [NATS](https://nats.io)
 - 🏔️ When I’m not behind a computer, you can find me hiking or exploring with a camera in my hand
 
 <!--
