@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Adam 👋
+
+I'm a software engineer passionate about machine learning, computer vision, data engineering, and scalable data processing. I enjoy using Rust, Python, and React and I'm currently learning DataFusion. When I’m not behind a computer, you can find me hiking or exploring with a camera in my hand 🏔️📷
 
 <!--
 **apatyk/apatyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
